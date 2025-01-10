@@ -6,9 +6,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"pycounts_nem"
-copyright = u"2025, Nonso Ebele-Muolokwu"
-author = u"Nonso Ebele-Muolokwu"
+project = "pycounts_nem"
+copyright = "2025, Nonso Ebele-Muolokwu"
+author = "Nonso Ebele-Muolokwu"
 
 # -- General configuration ---------------------------------------------------
 
